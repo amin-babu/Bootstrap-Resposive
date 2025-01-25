@@ -1,3 +1,4 @@
 #hero {
-  background: url('https://fastly.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI');
+  background: url('https://picsum.photos/seed/picsum/1920/800') no-repeat;
+  background-size: cover;
 }
